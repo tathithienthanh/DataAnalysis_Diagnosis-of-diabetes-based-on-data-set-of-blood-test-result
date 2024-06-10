@@ -1,4 +1,4 @@
-# DataAnalysis_Diagnosis-of-diabetes-based-on-data-set-of-blood-test-result *(not completed)*
+# DataAnalysis_Diagnosis-of-diabetes-based-on-data-set-of-blood-test-result
 Implement all learned knowledge about data analysis and data mining to make a complete project about Diagnosis of diabetes based on data set of blood test result
 
 # Citation
@@ -15,7 +15,7 @@ Link: https://plu.mx/plum/a?mendeley_data_id=wj9rwkp9c2&theme=plum-bigben-theme
 * https://www.kaggle.com/datasets/simaanjali/diabetes-classification-dataset/data
 
 # About the report and code
-* Used techniques: preprocessing, clustering with K-Means, association rule with apriori, classification with Gaussian Naive Bayes and SVM, ...
+* Used techniques: preprocessing, SMOTE, clustering with K-Means and Hierachical, classification with KNNs and Decision Tree
 * Re-edit the path if you use our code for importing or loading the dataset.
 * The report is for reference only, please do not edit or use for other purposes.
 

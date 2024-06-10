@@ -15,7 +15,7 @@ Link: https://plu.mx/plum/a?mendeley_data_id=wj9rwkp9c2&theme=plum-bigben-theme
 * https://www.kaggle.com/datasets/simaanjali/diabetes-classification-dataset/data
 
 # About the report and code
-* Used techniques: preprocessing, SMOTE, clustering with K-Means and Hierachical, classification with KNNs and Decision Tree
+* Used techniques: preprocessing, SMOTE, clustering with K-Means and Hierarchical, classification with KNNs and Decision Tree
 * Re-edit the path if you use our code for importing or loading the dataset.
 * The report is for reference only, please do not edit or use for other purposes.
 
